@@ -639,6 +639,13 @@ line-height: 30px;
     border: 1px solid #FF5151;
 }
 
+@media screen and (max-width: 700px) {
+    .footer{
+        flex-direction: column;
+    }
+
+}
+
 
 
 
