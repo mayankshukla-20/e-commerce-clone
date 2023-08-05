@@ -494,7 +494,7 @@ margin-right: 12px
 .footer{
     display: flex;
     flex-direction: row;
-    width: 1540px;
+    width: 1519px;
 height: 483px;
 flex-shrink: 0;
 background: rgba(252, 203, 144, 0.15);}
